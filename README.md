@@ -1,6 +1,5 @@
 # lncRNAeffects
-
-Stable code to perform phase field simulations with lncRNAs and transcriptional condensates.
+Stable code to perform phase field simulations with lncRNAs and transcriptional condensates. This code was written to support this publication in the Biophysical Journal: https://doi.org/10.1016/j.bpj.2023.05.032
 
 1. The scripts/ directory contains the different scripts that you can run to perform different kinds of phase field simulations. The main script used to run simulations for the paper is ``lncRNAeffect.py``
 2. The use the following command to run code: 
